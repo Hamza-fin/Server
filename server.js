@@ -1,3 +1,6 @@
+"scripts": {
+  "start": "node server.js"
+}
 const express = require("express");
 const puppeteer = require("puppeteer");
 
